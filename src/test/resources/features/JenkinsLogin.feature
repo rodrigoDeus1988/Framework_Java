@@ -18,4 +18,4 @@ Feature: Logar no jenkins
 
     Examples: 
       | username    | password |
-      | rodrigoDeus |   243005 |
+      |             |          |
