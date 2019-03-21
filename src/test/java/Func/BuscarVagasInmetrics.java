@@ -1,4 +1,4 @@
-package Função;
+package Func;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -16,7 +16,7 @@ import Page.GeralPage;
 
 public class BuscarVagasInmetrics {
 
-	private WebDriver navegador;
+	private WebDriver navegador; 
 	WebDriver driver;
 	
 
@@ -31,10 +31,10 @@ public class BuscarVagasInmetrics {
 	public void buscaVagas() {
 
 		// Login Portal Inmetrics
-		new GeralPage(navegador).loginInmetrics("");
+		new GeralPage(navegador).loginInmetrics("rodrigo.deus");
 
 		// Senha Portal Inmetrics
-		new GeralPage(navegador).senhaInmetrics("");
+		new GeralPage(navegador).senhaInmetrics("Ne6@rd2430");
 
 		// Botão Portao Inmetrics
 		new GeralPage(navegador).clickBotaoInmetrics();

@@ -1,0 +1,423 @@
+Não informado - Canopus, Thera ou Clientes
+ADMCERTTECNICA - CUSTOS NB CERTIFICACAO TECNICA
+DEVELOPMENT PERFORMANCE ENGINEER SPECIALIST (DPE)
+Função: Análise, Diagnóstico e Otimização de Desempenho (através do serviço de Engenharia de Big Data) Atividades: Otimizar uma infraestrutura para armazenamento e processamento de grandes conjuntos de dados (Hadoop, Spark, Cassandra, Hive, Hbase, Pig, Sqoop, MongoDB, API de integração, etc). O Engenheiro de Big Data tem seu trabalho diretamente ligado à infraestrutura de TI.
+
+
+
+Código ............. 2029
+Indicar
+SEDE - Alameda Xingu, 512
+ALELO176096 - MONITORAÇÃO
+SITE RELIABILITY ENGINEER (SRE)
+• Administrar o ambiente zabbix. • Ajudar a desenvolver eficiência na construção e planejamento de monitoração Zabbix. • Colaborar com administradores Zabbix para desenvolvimento de sensores e monitorações de negócio. • Realizar entendimento com o cliente de novas monitorações de negócio. • Criar especificação técnica / documentações. • Criar Dashboards de Negócio. • Atuar em troubleshooting “Incidentes” da Monitoração. • Analisar "problemas" oriundos de falha / indisponibilidade da Monitoração. • Ter disponibilidade para trabalhar alocado no Cliente. • Realizar report Interno / Cliente. • Entregar relatórios. • Participar das reuniões e rotinas no Cliente. • Ter perfil para atuar em projeto com metodologia ágeis. • Ter disponibilidade para trabalhar em “plantões”.
+
+
+
+Código ............. 2032
+Indicar
+Não informado - Canopus, Thera ou clientes
+ADMCERTTECNICA - CUSTOS NB CERTIFICACAO TECNICA
+SR DEVELOPMENT PERFORMANCE ENGINEER (DPE)
+Recomendar e realizar melhoria de otimização de desempenho, através do entendimento do problema reportado pelo cliente e análise das informações coletadas dos indicadores existente, buscando gargalos em sistemas. Criar relatório técnico/executivo sobre os problemas detectados ou teste de desempenho e solução aplicada, por meio das informações analisadas. Efetuar Testes de Desempenho conforme a necessidade do cliente, por meio de simulação de carga no sistema e analise dos indicadores, recomendando melhoria afim de reduzir/sanar gargalos do sistema. Desenvolver o Planejamento de Capacidade, entendendo o funcionamento do sistema do cliente e definindo indicadores para obter informações de desempenho/disponibilidade. Demonstrar um cenário what-if (o que acontece se) onde apresenta como o sistema se comporta diante de possíveis crescimentos do volume de negócio do cliente e como assegurar desempenho/disponibilidade e escalabilidade ao sistema para responder a carga máxima suportada pelo sistema de acordo com o tempo de resposta aceitado.
+
+
+
+Código ............. 2031
+Indicar
+Não informado - Cidade de Deus, Osasco - SP
+BRADESCO198139 - BOLSÃO - TESTES DE USABILIDADE E AUTOMAÇÃO
+AUTOMATION TECHNICIAN
+Desenvolver scripts de automação de websites e aplicativos de baixa e média complexidade, através de ferramentas e linguagens de desenvolvimento. Escrever cenários de testes, com base no conhecimento adquirido em reuniões de entendimento do projeto e/ou documentação pré-existente. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos.
+
+
+
+Código ............. 2025
+Indicar
+CASA 3 - Av. Interlagos, 3501 - Campo Grande, São Paulo, SP
+SANTANDER198246 - SANTANDER - AGILE COACH - METODOLOGIA
+COACH AGILE
+Fornecer coaching prático para Times Scrum em todos as cerimônias do Scrum: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, Backlog Groomings etc.). Orientar as organizações, times e pessoas no processo de transformação para o mindset ágil. Estabelecer a cadência de nível de programa e conduzir cerimônias de nível de programa (PI Planning, Scrum of Scrum e PO Sync). Facilitar sessões de brainstorming, tomada de decisões e resolução de conflitos. Exercer o coaching dos membros do time em relação a seus diferentes papéis (Scrum Masters, Product Owners, Business Owners, Product Managers, Líderes Técnicos etc.). Dar feedback às equipes para a melhoria contínua do processo e do aprendizado. Orientar e promover a auto organização do time. Encorajar e orientar a implementação de práticas de desenvolvimento de software orientada por testes (BDD/TDD/ATDD/ATDP).
+
+
+
+Código ............. 2020
+Indicar
+Não informado - Vila Hauer, Curitiba
+BRADESCO198139 - BOLSÃO - TESTES DE USABILIDADE E AUTOMAÇÃO
+JR SOFTWARE DEVELOPMENT ENGINEER IN TEST
+Desenvolver scripts de automação de websites e aplicativos de baixa e média complexidade, através de ferramentas e linguagens de desenvolvimento. Escrever cenários de testes, com base no conhecimento adquirido em reuniões de entendimento do projeto e/ou documentação pré-existente. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos.
+
+
+
+Código ............. 2022
+Indicar
+Não informado - Vila Hauer, Curitiba
+BRADESCO198139 - BOLSÃO - TESTES DE USABILIDADE E AUTOMAÇÃO
+JR SOFTWARE DEVELOPMENT ENGINEER IN TEST
+Desenvolver scripts de automação de websites e aplicativos de baixa e média complexidade, através de ferramentas e linguagens de desenvolvimento. Escrever cenários de testes, com base no conhecimento adquirido em reuniões de entendimento do projeto e/ou documentação pré-existente. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos.
+
+
+
+Código ............. 2023
+Indicar
+CASA 3 - Av. Interlagos, 3501 - Campo Grande, São Paulo, SP
+SANTANDER198246 - SANTANDER - AGILE COACH - METODOLOGIA
+COACH AGILE
+Fornecer coaching prático para Times Scrum em todos as cerimônias do Scrum: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, Backlog Groomings etc.). Orientar as organizações, times e pessoas no processo de transformação para o mindset ágil. Estabelecer a cadência de nível de programa e conduzir cerimônias de nível de programa (PI Planning, Scrum of Scrum e PO Sync). Facilitar sessões de brainstorming, tomada de decisões e resolução de conflitos. Exercer o coaching dos membros do time em relação a seus diferentes papéis (Scrum Masters, Product Owners, Business Owners, Product Managers, Líderes Técnicos etc.). Dar feedback às equipes para a melhoria contínua do processo e do aprendizado. Orientar e promover a auto organização do time. Encorajar e orientar a implementação de práticas de desenvolvimento de software orientada por testes (BDD/TDD/ATDD/ATDP).
+
+
+
+Código ............. 2017
+Indicar
+CASA 3 - Av. Interlagos, 3501 - Campo Grande, São Paulo, SP
+SANTANDER198246 - SANTANDER - AGILE COACH - METODOLOGIA
+COACH AGILE
+Fornecer coaching prático para Times Scrum em todos as cerimônias do Scrum: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, Backlog Groomings etc.). Orientar as organizações, times e pessoas no processo de transformação para o mindset ágil. Estabelecer a cadência de nível de programa e conduzir cerimônias de nível de programa (PI Planning, Scrum of Scrum e PO Sync). Facilitar sessões de brainstorming, tomada de decisões e resolução de conflitos. Exercer o coaching dos membros do time em relação a seus diferentes papéis (Scrum Masters, Product Owners, Business Owners, Product Managers, Líderes Técnicos etc.). Dar feedback às equipes para a melhoria contínua do processo e do aprendizado. Orientar e promover a auto organização do time. Encorajar e orientar a implementação de práticas de desenvolvimento de software orientada por testes (BDD/TDD/ATDD/ATDP).
+
+
+
+Código ............. 2019
+Indicar
+CASA 3 - Av. Interlagos, 3501 - Campo Grande, São Paulo, SP
+SANTANDER198246 - SANTANDER - AGILE COACH - METODOLOGIA
+COACH AGILE
+Fornecer coaching prático para Times Scrum em todos as cerimônias do Scrum: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, Backlog Groomings etc.). Orientar as organizações, times e pessoas no processo de transformação para o mindset ágil. Estabelecer a cadência de nível de programa e conduzir cerimônias de nível de programa (PI Planning, Scrum of Scrum e PO Sync). Facilitar sessões de brainstorming, tomada de decisões e resolução de conflitos. Exercer o coaching dos membros do time em relação a seus diferentes papéis (Scrum Masters, Product Owners, Business Owners, Product Managers, Líderes Técnicos etc.). Dar feedback às equipes para a melhoria contínua do processo e do aprendizado. Orientar e promover a auto organização do time. Encorajar e orientar a implementação de práticas de desenvolvimento de software orientada por testes (BDD/TDD/ATDD/ATDP).
+
+
+
+Código ............. 2018
+Indicar
+CASA 3 - Av. Interlagos, 3501 - Campo Grande, São Paulo, SP
+SANTANDER198246 - SANTANDER - AGILE COACH - METODOLOGIA
+COACH AGILE
+Fornecer coaching prático para Times Scrum em todos as cerimônias do Scrum: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, Backlog Groomings etc.). Orientar as organizações, times e pessoas no processo de transformação para o mindset ágil. Estabelecer a cadência de nível de programa e conduzir cerimônias de nível de programa (PI Planning, Scrum of Scrum e PO Sync). Facilitar sessões de brainstorming, tomada de decisões e resolução de conflitos. Exercer o coaching dos membros do time em relação a seus diferentes papéis (Scrum Masters, Product Owners, Business Owners, Product Managers, Líderes Técnicos etc.). Dar feedback às equipes para a melhoria contínua do processo e do aprendizado. Orientar e promover a auto organização do time. Encorajar e orientar a implementação de práticas de desenvolvimento de software orientada por testes (BDD/TDD/ATDD/ATDP).
+
+
+
+Código ............. 2021
+Indicar
+Não informado - Vila Hauer, Curitiba
+BRADESCO198139 - BOLSÃO - TESTES DE USABILIDADE E AUTOMAÇÃO
+JR SOFTWARE DEVELOPMENT ENGINEER IN TEST
+Desenvolver scripts de automação de websites e aplicativos de baixa e média complexidade, através de ferramentas e linguagens de desenvolvimento. Escrever cenários de testes, com base no conhecimento adquirido em reuniões de entendimento do projeto e/ou documentação pré-existente. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos.
+
+
+
+Código ............. 2024
+Indicar
+Não informado - Cidade de Deus - Osasco/SP
+BRADESCO198139 - BOLSÃO - TESTES DE USABILIDADE E AUTOMAÇÃO
+AUTOMATION TECHNICIAN
+Desenvolver scripts de automação de websites e aplicativos de baixa e média complexidade, através de ferramentas e linguagens de desenvolvimento. Identificar problemas e realizar correção em scripts de testes automatizados por meio de análise dos problemas de lógica ou alterações no sistema. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando nas ferramentas cabíveis. Gerar evidências contendo toda informação necessária para evidenciação do defeito ou do sucesso dos testes. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos ou impeditivos.
+
+
+
+Código ............. 2008
+Indicar
+Não informado - Atuação Home Office
+EQUINIX186584 - TESTES FUNCIONAIS SERVICE NOW
+SOFTWARE TEST ENGINEER
+Conduzir reuniões com os Stakeholders de outros paises. (Fluência em Inglês) Analisar a documentação do projeto (Casos de Uso, Casos de Testes, Especificações Técnicas, Diagramas de fluxo, Plano de Negócios, Plano de Testes, e outros.) por meio de leitura e entendendo todos os artefatos disponíveis, sempre questionando quando houverem dúvidas. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos. Realizar reuniões com cliente, tanto técnicas quanto de posicionamento de status e reuniões de entendimento do projeto junto a engenheiros e desenvolvedores. Escrever / Detalhar o Roteiro de Testes, descrevendo o caso de teste com o passo-a-passo a ser realizado no sistema. Realizar a criação ou solicitar a massa de dados para os testes de acordo com os casos mapeados para a entrega ou projeto. Elaborar o Status Report para o cliente efetuando analise da execução diária, juntamente com os defeitos, relatando a quantidade de casos de testes executados, quantidade de defeitos encontrados, problemas durante a execução e pontos de atenção/riscos. Executar os casos de testes já escritos em alguma ferramenta reproduzindo o passo a passo conforme orientações. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos todas as evidências. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes. Analisar defeitos corrigidos, realizando um reateste da aplicação após aprovação do desenvolvimento. Re-executar os casos de testes após o defeito ser reatestado com sucesso pelo analista.
+
+
+
+Código ............. 2015
+Indicar
+SEDE - Tecban - Alphaville
+TECBAN186902 - FÁBRICA DE TESTES - TECBAN
+SR SOFTWARE TEST ENGINEER
+Analisar a documentação do projeto (Casos de Uso, Casos de Testes, Especificações Técnicas, Diagramas de fluxo, Plano de Negócios, Plano de Testes, e outros.) por meio de leitura e entendendo todos os artefatos disponíveis. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos. Coordenar de 3 ou mais projetos realizando com total qualidade a administração do tempo. Realizar reuniões com cliente, tanto técnicas quanto de posicionamento de status e reuniões de entendimento do projeto junto a engenheiros e desenvolvedores, questionando sempre que possível ou necessário. Escrever / Detalhar o Roteiro de Testes, descrevendo o caso de teste com o passo-a-passo a ser realizado no sistema. Realizar a criação ou solicitar a massa de dados para os testes de acordo com os casos mapeados para a entrega ou projeto. Efetuar a validação do Status Report a ser enviado para o cliente, verificando se as informações estão corretas, antes de enviar para o cliente. Executar os casos de testes, já escritos em alguma ferramenta reproduzindo o passo a passo conforme orientações. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes. Analisar defeitos corrigidos, realizando um reteste da aplicação após aprovação do desenvolvimento. Re-executar os casos de testes após o defeito ser reatestado com sucesso pelo analista. Efetuar apoio, orientação e desenvolver os auxiliares e analistas para que melhorem suas competências técnicas. Preparar material para ministrar pelo menos um treinamento por ano, através de estudo de um tema que julgue importante para o desenvolvimento da carreira dos analistas.
+
+
+
+Código ............. 2011
+Indicar
+SEDE - Alameda Xingu 512 - 11 andar
+LIVELO197813 - MOBILE
+SOFTWARE DEVELOPMENT ENGINEER IN TEST
+Desenvolver scripts de automação de websites de baixa e média complexidade, através de ferramentas e linguagens de desenvolvimento. Identificar problemas e realizar correção em scripts de testes automatizados por meio de análise dos problemas de lógica ou alterações no sistema e corrigindo através de ferramentas e linguagens de desenvolvimento. Escrever cenários em BDD (Behavior Driven Development), com base no conhecimento adquirido em reuniões de entendimento do projeto e nas estórias escritas pelo líder detalhando em cenários os fluxos do sistema. Realizar a execução de automação de teste, através de ferramentas e linguagens de desenvolvimento IDEs ou Editores. Efetuar a documentação dos projetos de testes automatizados, através dos resultados dos testes, reportados em documentos como word, excel, powerpoint, markdown e outros. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos todas as evidências. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes. Analisar a documentação do projeto (Casos de Uso, Casos de Testes, Especificações Técnicas, Diagramas de fluxo, Plano de Negócios, Plano de Testes, e outros.). Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos.
+
+
+
+Código ............. 2012
+Indicar
+SEDE - Av Tambore 267
+ADMCONSULTING - CUSTOS NB CONSULTING SERVICES
+CONSULTANT
+• Entregar projeto de otimização e eficiência de gestão e processos de TI • Mapear processos e avaliar otimizações e melhorias • Criar procedimentos e manuais relacionados a Bandeiras e Adquirência • Criar e conduzir apresentações operacionais e táticas de consultoria • Pesquisar e definir soluções para clientes de acordo com suas necessidades • Conduzir treinamentos e capacitações relacionadas ao projeto • Atualizar Manual de Bandeiras e procedimentos associados • Aplicação de métodos ágeis na entrega
+
+
+
+Código ............. 2006
+Candidatar
+Não informado - Região do Morumbi - Berrini
+CARREFOUR187815 - RFP - SERVIÇOS DE CONSULTORIA
+SR CONSULTANT
+Lidera entrega de projetos de consulting Entrega de produtos dos projetos nos quais participa Conduz reuniões e apresentações para os clientes Conduz treinamentos e ações de capacitação nos projetos em que atua
+
+
+
+Código ............. 2004
+Indicar
+SEDE - Avenida Tamboré, 267 e Alameda Araguaia, 1142
+SODEXO174958 - PROJETO SUSTENTAÇÃO
+SITE RELIABILITY ENGINEER (SRE)
+Analista Middleware Pleno Responsabilidades e Atribuições * Ajudar na Arquitetura e Implantação de Infraestrutura de Aplicações; * Dar report ao cliente * Buscar por eficiência técnica e automação dos processos de trabalho; * Buscar por novas tecnologias e cases que apoiem o desenvolvimento dos negócios da Inmetrics; * Atuar em troubleshooting de aplicações JAVA; * Disponibilidade para trabalhar finais de semana e fora do horário; * Disponibilidade para trabalhar em regime de plantões (standby) * Disponibilidade para trabalhar alocado no cliente;
+
+
+
+Código ............. 2003
+Indicar
+Não informado - Canopus, Thera ou Clientes
+ADMCERTTECNICA - CUSTOS NB CERTIFICACAO TECNICA
+SR DEVELOPMENT PERFORMANCE ENGINEER (DPE)
+Recomendar e realizar melhoria de otimização de desempenho, através do entendimento do problema reportado pelo cliente e análise das informações coletadas dos indicadores existente, buscando gargalos em sistemas. Criar relatório técnico/executivo sobre os problemas detectados ou teste de desempenho e solução aplicada, por meio das informações analisadas. Efetuar Testes de Desempenho conforme a necessidade do cliente, por meio de simulação de carga no sistema e analise dos indicadores, recomendando melhoria afim de reduzir/sanar gargalos do sistema. Desenvolver o Planejamento de Capacidade, entendendo o funcionamento do sistema do cliente e definindo indicadores para obter informações de desempenho/disponibilidade. Demonstrar um cenário what-if (o que acontece se) onde apresenta como o sistema se comporta diante de possíveis crescimentos do volume de negócio do cliente e como assegurar desempenho/disponibilidade e escalabilidade ao sistema para responder a carga máxima suportada pelo sistema de acordo com o tempo de resposta aceitado.
+
+
+
+Código ............. 2000
+Indicar
+Não informado - Está em definição (Cliente "Al Xingu" ou Sede Inmetrics.
+ELO197917 - ELO - CÉLULA DE AUTOMAÇÃO DE TESTES
+SR SOFTWARE DEVELOPMENT ENGINEER IN TEST
+Realizar suporte para solucionar problemas e tirar dúvidas técnica do time. Definir estratégias e ferramentas de automação, por meio de entendimento da plataforma e tecnologias utilizadas pelo cliente. Participar de reuniões de projeto e entender as necessidades de automação do cliente, através de conversas, reuniões e qualquer outro meio de comunicação. Promover a inovação e estimar esforços de automação. Capacitar outros membros do time, criando roteiros de treinamento com base nas necessidades do cliente e transferindo esse conhecimento através de cursos presenciais. Desenhar, configurar e implementar novas tecnologias e integração entre elas, através de pesquisa de mercado e estudo. Desenvolver scripts de automação de websites de baixa e média complexidade e realizar a execução de automação de teste, através de ferramentas e linguagens de desenvolvimento. Identificar problemas e realizar correção em scripts de testes automatizados por meio de análise dos problemas de lógica. Escrever cenários de testes, com base no conhecimento adquirido em reuniões de entendimento do projeto e nas estórias escritas pelo líder, detalhando em cenários os fluxos do sistema. Efetuar manipulação de informações em banco de dados através de ferramentas de banco de dados. Efetuar a documentação dos projetos de testes automatizados, através dos resultados dos testes, reportados em documentos. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes e anexando todas as evidências em ferramentas de gerenciamento de execução de testes e defeitos. Analisar a documentação do projeto (Casos de Uso, Casos de Testes, Especificações Técnicas, Diagramas de fluxo, Plano de Negócios, Plano de Testes, e outros.) por meio de leitura e entendendo todos os artefatos disponíveis, sempre questionando quando houverem dúvidas. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos.
+
+
+
+Código ............. 1995
+Indicar
+SEDE - Canopus
+ADMCONSULTING - CUSTOS NB CONSULTING SERVICES
+SR CONSULTANT
+Lidera entrega de projetos de consulting Entrega de produtos dos projetos nos quais participa Conduz reuniões e apresentações para os clientes Conduz treinamentos e ações de capacitação nos projetos em que atua
+
+
+
+Código ............. 1988
+Indicar
+SEDE - Alameda Tocantins, 822 - Alphaville - Barueri/SP
+ORIZON186646 - FABRICA DE AUTOMAÇÃO
+SOFTWARE TEST ENGINEER
+Analisar a documentação do projeto (Casos de Uso, Casos de Testes, Especificações Técnicas, Diagramas de fluxo, Plano de Negócios, Plano de Testes, e outros.) por meio de leitura e entendendo todos os artefatos disponíveis, sempre questionando quando houverem dúvidas. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos. Coordenar um ou dois projetos realizando com total qualidade a administração do tempo em relação aos projetos, aos quais é responsável e demanda as atividades para os analistas JRs e Auxiliares Realizar reuniões com cliente, tanto técnicas quanto de posicionamento de status e reuniões de entendimento do projeto junto a engenheiros e desenvolvedores. Escrever / Detalhar o Roteiro de Testes, descrevendo o caso de teste com o passo-a-passo a ser realizado no sistema. Realizar a criação ou solicitar a massa de dados para os testes de acordo com os casos mapeados para a entrega ou projeto. Elaborar o Status Report para o cliente efetuando analise da execução diária, juntamente com os defeitos, relatando a quantidade de casos de testes executados, quantidade de defeitos encontrados, problemas durante a execução e pontos de atenção/riscos. Executar os casos de testes já escritos em alguma ferramenta reproduzindo o passo a passo conforme orientações. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos todas as evidências. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes. Analisar defeitos corrigidos, realizando um reateste da aplicação após aprovação do desenvolvimento. Re-executar os casos de testes após o defeito ser reatestado com sucesso pelo analista. Efetuar apoio, orientação e desenvolver os auxiliares e analistas para que melhorem suas competências técnic
+
+
+
+Código ............. 1977
+Candidatar
+Não informado - Canopus, Thera ou Clientes
+SAFRA198063 - TROUBLESHOOTING
+SR DEVELOPMENT PERFORMANCE ENGINEER (DPE)
+Recomendar e realizar melhoria de otimização de desempenho, através do entendimento do problema reportado pelo cliente e análise das informações coletadas dos indicadores existente, buscando gargalos em sistemas. Criar relatório técnico/executivo sobre os problemas detectados ou teste de desempenho e solução aplicada, por meio das informações analisadas. Efetuar Testes de Desempenho conforme a necessidade do cliente, por meio de simulação de carga no sistema e analise dos indicadores, recomendando melhoria afim de reduzir/sanar gargalos do sistema. Desenvolver o Planejamento de Capacidade, entendendo o funcionamento do sistema do cliente e definindo indicadores para obter informações de desempenho/disponibilidade. Demonstrar um cenário what-if (o que acontece se) onde apresenta como o sistema se comporta diante de possíveis crescimentos do volume de negócio do cliente e como assegurar desempenho/disponibilidade e escalabilidade ao sistema para responder a carga máxima suportada pelo sistema de acordo com o tempo de resposta aceitado.
+
+
+
+Código ............. 1982
+Indicar
+SEDE - Av. Tamboré 267 – 21º andar, Torre Norte
+ADMSEC - CUSTOS CYBER SECURITY
+CLOUD ARCHITECT
+Você manja de cloud (Azure e AWS), sabe criar uma arquitetura que da vontade de chorar de tão perfeita, é tão segura que o Kevin Mitnick te ligaria para entender como você fez tudo isso? Então você é a pessoa que nós buscamos! O Security Cloud Team é responsável por ajudar os nossos clientes a reduzirem seu TCO de infraestrutura on-premise, é o time que coloca a mão na massa e monta a melhor e mais segura infraestrutura na nuvem, usando as melhores práticas e tecnologias. Resumindo, constrói todo o roadmap para contemplar toda a expectativa do cliente e criar uma arquitetura fod*. Monta propostas que entregam a expectativa dos clientes e apresenta as propostas no modelo reunião ou palestra.
+
+
+
+Código ............. 1981
+Candidatar
+Não informado - Canopus, Thera ou Clientes
+SAFRA198063 - TROUBLESHOOTING
+SR DEVELOPMENT PERFORMANCE ENGINEER (DPE)
+Recomendar e realizar melhoria de otimização de desempenho, através do entendimento do problema reportado pelo cliente e análise das informações coletadas dos indicadores existente, buscando gargalos em sistemas. Criar relatório técnico/executivo sobre os problemas detectados ou teste de desempenho e solução aplicada, por meio das informações analisadas. Efetuar Testes de Desempenho conforme a necessidade do cliente, por meio de simulação de carga no sistema e analise dos indicadores, recomendando melhoria afim de reduzir/sanar gargalos do sistema. Desenvolver o Planejamento de Capacidade, entendendo o funcionamento do sistema do cliente e definindo indicadores para obter informações de desempenho/disponibilidade. Demonstrar um cenário what-if (o que acontece se) onde apresenta como o sistema se comporta diante de possíveis crescimentos do volume de negócio do cliente e como assegurar desempenho/disponibilidade e escalabilidade ao sistema para responder a carga máxima suportada pelo sistema de acordo com o tempo de resposta aceitado.
+
+
+
+Código ............. 1983
+Indicar
+Não informado - Canopus, Thera ou clientes
+SAFRA198063 - TROUBLESHOOTING
+SR DEVELOPMENT PERFORMANCE ENGINEER (DPE)
+Recomendar e realizar melhoria de otimização de desempenho, através do entendimento do problema reportado pelo cliente e análise das informações coletadas dos indicadores existente, buscando gargalos em sistemas. Criar relatório técnico/executivo sobre os problemas detectados ou teste de desempenho e solução aplicada, por meio das informações analisadas. Efetuar Testes de Desempenho conforme a necessidade do cliente, por meio de simulação de carga no sistema e analise dos indicadores, recomendando melhoria afim de reduzir/sanar gargalos do sistema. Desenvolver o Planejamento de Capacidade, entendendo o funcionamento do sistema do cliente e definindo indicadores para obter informações de desempenho/disponibilidade. Demonstrar um cenário what-if (o que acontece se) onde apresenta como o sistema se comporta diante de possíveis crescimentos do volume de negócio do cliente e como assegurar desempenho/disponibilidade e escalabilidade ao sistema para responder a carga máxima suportada pelo sistema de acordo com o tempo de resposta aceitado.
+
+
+
+Código ............. 1984
+Indicar
+Thera - Região da Berrini
+ADMCONSULTING - CUSTOS NB CONSULTING SERVICES
+COACH AGILE
+Fornecer coaching prático para Times Scrum em todos as cerimônias do Scrum: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, Backlog Groomings etc.). Orientar as organizações, times e pessoas no processo de transformação para o mindset ágil. Estabelecer a cadência de nível de programa e conduzir cerimônias de nível de programa (PI Planning, Scrum of Scrum e PO Sync). Facilitar sessões de brainstorming, tomada de decisões e resolução de conflitos. Exercer o coaching dos membros do time em relação a seus diferentes papéis (Scrum Masters, Product Owners, Business Owners, Product Managers, Líderes Técnicos etc.). Dar feedback às equipes para a melhoria contínua do processo e do aprendizado. Orientar e promover a auto organização do time. Encorajar e orientar a implementação de práticas de desenvolvimento de software orientada por testes (BDD/TDD/ATDD/ATDP).
+
+
+
+Código ............. 1975
+Indicar
+SEDE - Alameda Tocantins, 822 - Alphaville - Barueri/SP
+ORIZON186646 - FABRICA DE AUTOMAÇÃO
+SOFTWARE TEST ENGINEER
+Analisar a documentação do projeto (Casos de Uso, Casos de Testes, Especificações Técnicas, Diagramas de fluxo, Plano de Negócios, Plano de Testes, e outros.) por meio de leitura e entendendo todos os artefatos disponíveis, sempre questionando quando houverem dúvidas. Reportar as atividades ao responsável pelo projeto, enviando diariamente, semanalmente ou mensalmente status das execuções, defeitos e impeditivos. Coordenar um ou dois projetos realizando com total qualidade a administração do tempo em relação aos projetos, aos quais é responsável e demanda as atividades para os analistas JRs e Auxiliares Realizar reuniões com cliente, tanto técnicas quanto de posicionamento de status e reuniões de entendimento do projeto junto a engenheiros e desenvolvedores. Escrever / Detalhar o Roteiro de Testes, descrevendo o caso de teste com o passo-a-passo a ser realizado no sistema. Realizar a criação ou solicitar a massa de dados para os testes de acordo com os casos mapeados para a entrega ou projeto. Elaborar o Status Report para o cliente efetuando analise da execução diária, juntamente com os defeitos, relatando a quantidade de casos de testes executados, quantidade de defeitos encontrados, problemas durante a execução e pontos de atenção/riscos. Executar os casos de testes já escritos em alguma ferramenta reproduzindo o passo a passo conforme orientações. Identificar defeitos analisando e verificando possíveis inconsistências durante a execução do roteiro e registrando em alguma ferramenta de gerenciamento de defeitos todas as evidências. Gerar evidências obtendo e gerando qualquer tipo de informação necessária para evidenciação do defeito ou do sucesso dos testes. Analisar defeitos corrigidos, realizando um reateste da aplicação após aprovação do desenvolvimento. Re-executar os casos de testes após o defeito ser reatestado com sucesso pelo analista. Efetuar apoio, orientação e desenvolver os auxiliares e analistas para que melhorem suas competências técnic
+
+
+
+Código ............. 1978
+Candidatar
+Thera - Região da Berrini
+ADMCONSULTING - CUSTOS NB CONSULTING SERVICES
+COACH AGILE
+Fornecer coaching prático para Times Scrum em todos as cerimônias do Scrum: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, Backlog Groomings etc.). Orientar as organizações, times e pessoas no processo de transformação para o mindset ágil. Estabelecer a cadência de nível de programa e conduzir cerimônias de nível de programa (PI Planning, Scrum of Scrum e PO Sync). Facilitar sessões de brainstorming, tomada de decisões e resolução de conflitos. Exercer o coaching dos membros do time em relação a seus diferentes papéis (Scrum Masters, Product Owners, Business Owners, Product Managers, Líderes Técnicos etc.). Dar feedback às equipes para a melhoria contínua do processo e do aprendizado. Orientar e promover a auto organização do time. Encorajar e orientar a implementação de práticas de desenvolvimento de software orientada por testes (BDD/TDD/ATDD/ATDP).
+
+
+
+Código ............. 1974
+Indicar
+SEDE - Av. Tamboré, 267 - Alphaville - Barueri/SP
+ORIZON186646 - FABRICA DE AUTOMAÇÃO
+Analista de Desenv e Autom de Sist Ref 2
+Automação de Testes (criação e execução) (De 3 a 5 anos); Ferramenta de Automação - HP QTP (De 3 a 5 anos); Cucumber (De 1 a 3 anos); Funcionamento de serviços (Soap/REST) (De 1 a 3 anos); Linguagem de Programação - Java (De 3 a 5 anos); Linguagem de Programação - VB / VBA (De 3 a 5 anos); BDD - Behavior Driven Development (De 1 a 3 anos); Testes de Serviços (Soap/REST) (De 3 a 5 anos); Programação Banco de dados (PLSQL) - MS SQL (De 1 a 3 anos);
+
+
+
+Código ............. 1970
+Indicar
+SEDE - av tambore, 267
+CIELO164378 - RFP AUTOMAÇÃO BOB - DOMICÍLIO BANCÁRIO
+Analista de Desenv e Autom de Sist Ref 4
+Java, J-Unit, Git, ALM, Fremework, Oracle, Testes funcionais, levantamento de requisitos, J-meter, RUB, BDD, cucumber, SQL, Jira, Selenium, Maven,Jenkins,
+
+
+
+Código ............. 1965
+Indicar
+SEDE - Tambore
+ADMCONSULTING - CUSTOS NB CONSULTING SERVICES
+Coach Agile
+· No mínimo alguns meses/anos como Scrum Master/Agile Coach em múltiplos times; · Conhecimento aplicado nas principais práticas Lean-Agile: Scrum, XP, Kanban, SAFe entre outros; · Conhecimento em técnicas de estimativa; · Conhecimento em técnicas de facilitação; · Desejável conhecimento em Design Thinking, Design Sprint, Lean Inception ou outros métodos equivalentes; · Experiência em Consultoria; · Ter uma visão sistêmica para resolver problemas complexos de forma simples; · Gostar de ensinar e aprender; · Facilidade em mapear oportunidades de melhorias e auxiliar na busca por soluções; · Excelente relacionamento interpessoal, gosta de ouvir e sabe fazer perguntas abertas
+
+
+
+Código ............. 1958
+Indicar
+SEDE - Av. Tamboré, 267
+ADMQTS - CUSTOS NB QUALITY TESTING SERVICES
+Analista de Pre Venda
+Realizar entendimento técnico de necessidades dos clientes e mapear serviços que atenderão às necessidades; Realizar estimativas de esforço para a execução dos serviços; Apoiar na elaboração de propostas técnicas e comerciais; Repasse do projeto para a área responsável pela entrega e apoio no desenvolvimento do projeto; Suporte ao time de vendas; Atuação junto ao time de vendas, atendendo necessidades dos clientes; Elaboração de propostas técnicas com soluções para serviços de APM (Application Performance Management); Precificação de Serviços; Participação do processo de RFP de CLIENTES.
+
+
+
+Código ............. 1957
+Candidatar
+SEDE - tambore, 267 - 21 andar
+CIELO164378 - RFP AUTOMAÇÃO BOB - DOMICÍLIO BANCÁRIO
+Analista de Desenv e Autom de Sist Ref 4
+Java, J-Unit, Git, ALM, Fremework, Oracle, Testes funcionais, levantamento de requisitos, J-meter, RUB, BDD, cucumber, SQL, Jira, Selenium, Maven,Jenkins,
+
+
+
+Código ............. 1943
+Indicar
+SEDE - tambore, 267 - 21 andar
+CIELO164378 - RFP AUTOMAÇÃO BOB - DOMICÍLIO BANCÁRIO
+Lider de Desenv e Automação
+Java, J-Unit, Git, ALM, Fremework, Oracle, Testes funcionais, levantamento de requisitos, J-meter, RUBY, CAPYBARA, BDD, cucumber, SQL, Jira, Selenium, Maven,Jenkins,
+
+
+
+Código ............. 1945
+Indicar
+SEDE - tambore, 267 - 21 andar
+CIELO164378 - RFP AUTOMAÇÃO BOB - DOMICÍLIO BANCÁRIO
+Analista de Desenv e Autom de Sist Ref 4
+Java, J-Unit, Git, ALM, Fremework, Oracle, Testes funcionais, levantamento de requisitos, J-meter, RUB, BDD, cucumber, SQL, Jira, Selenium, Maven,Jenkins,
+
+
+
+Código ............. 1944
+Indicar
+Não informado - Canopus, Thera ou Clientes
+UOL186410 - CAPACITY PAGSEGURO
+Analista de Desempenho Jr
+Linux Básico Pacote Office, especialmente Excel Linguagem SQL Programação Java Python
+
+
+
+Código ............. 1896
+Indicar
+SEDE - Av Tamboré, 267 - Alphaville - Barueri
+ADMCERTTECNICA - CUSTOS NB CERTIFICACAO TECNICA
+Gerente de Projetos
+Pré-requisitos: - Superior Completo; - Gerenciamento de Projetos com foco em ITSM e/ou Infraestrutura, utilizando métodos ágeis e/ou tradicionais, padrão PMBOK; - Aplicação de práticas e ferramentas Lean em TI; - Conhecimentos em pacote office; - Gestão de equipes multidisciplinares; - Condução de apresentações e resultados para clientes. Conhecimentos desejáveis: - Certificação PMP / PMI; - Certificação ITIL; - Certificação Lean IT Foundations; - Certificação Scrum Master; - Conhecimentos em processos e práticas de Capacity Planning e/ou Stress Test;
+
+
+
+Código ............. 1897
+Candidatar
+Não informado - Canopus, Thera ou Clientes
+ADMCERTTECNICA - CUSTOS NB CERTIFICACAO TECNICA
+DEVELOPMENT PERFORMANCE ENGINEER
+Conhecimento em testes de performance com as ferramentas Apache JMeter, HP Load Runner ou outras. Desenvolvimento JAVA (Desktop e Web) com as frameworks de mercado (Hibernate, Mentawai, Struts, JSF, JSP, Servlets, jUnity, ...); Conhecimento básico em Bancos de Dados Oracle e MS SQL; Ferramentas de Monitoramento: Zabbix, Nagios ou outras; Linux Básico; SQL Básico; Pacote Office; Tomcat, JBoss ou outros;
+
+
+
+Código ............. 1893
+Indicar
+Não informado - Canopus, Thera ou Clientes
+ADMCERTTECNICA - CUSTOS NB CERTIFICACAO TECNICA
+Analista de Desempenho Sr
+Especialista Microsoft SQL Server DBA Sênior Focado em bancos de dados de Alta Performance Tuning de Queries Troubleshooting/Performance Identificação de ofensores de desempenho Otimização de I/O Conhecimentos de outros bancos de dados, como Oracle, Postgress, etc Diferencial: conhecimento básico em bancos de dados NoSQL
+
+
+
+Código ............. 1895
+Indicar
+SEDE - Av Tambore 267 - 21 and - CANOPUS
+ADMCONSULTING - CUSTOS NB CONSULTING SERVICES
+Cientista de Dados Pl
+Prioritário • Modelos de Machine Learning • Deep Learning • Linguagens que suportem bibliotecas atuais de análise de dados como Python, C++ ou R; • Experiência comprovada análise de grandes datasets usando Decision Trees, Random Forests e Redes Neurais; • Experiência comprovada com frameworks de Machine Learning (Scikit-Learn, TensorFlow, Theano, Caffe) • Demonstração das análises e resultados por meio de apresentações consolidadas. • Análises estatísticas avançadas de dados por meio de programas de computadores; • Criação de modelos estatísticos (distribuições, teste de hipótese, inferência); • Aquisição e preparação de grandes volumes dados (pré-processamento); • Atuação e extração de dados de planilhas (Microsoft Office e LibreOffice); • Criação de redes neurais Habilidades: • Experiência em áreas com abundante trabalho com dados, como estatística, matemática, física, ciência da computação; • Conhecimento de modelos estatísticos (distribuições, teste de hipótese, inferência); • Conhecimento de técnicas de aquisição e preparação de dados (pré-processamento); • Experiência em atuação e extração de dados de planilhas (Microsoft Office e LibreOffice); • Vontade de estudar e aprender todos os dias; • Inglês intermediário. • MASP • Lean Desejável: • Desenvoltura • Story Telling • Técnicas de apresentação
+
+
+
+Código ............. 1880
+Indicar
+SEDE - BANCO SAFRA S/A - SEDE
+SAFRA187378 - AGILE TESTERS
+Analista de Desenv e Autom de Sist Ref 3
+Automação de Testes (criação e execução) (Mais de 5 anos); Automação Desktop (De 3 a 5 anos); Automação mobile com Calabash ou Appium (De 3 a 5 anos); Crossbrowser (De 3 a 5 anos); Cucumber (De 3 a 5 anos); Design Patterns (De 3 a 5 anos); Ferramenta de Automação - HP QTP (Mais de 5 anos); Ferramenta de Automação - IBM Functional Tester (De 3 a 5 anos); Ferramenta de Automação - MS Visual Studio TypeScript (TS) (Mais de 5 anos); Funcionamento de serviços (Soap/REST) (De 3 a 5 anos); Gestão e classificação de defeitos (De 3 a 5 anos); Integração contínua (Jenkins) (De 3 a 5 anos); Linguagem de Programação - .NET (De 3 a 5 anos);
+
+
+
+Código ............. 1876
+Indicar
+SEDE - Av. Tamboré, 267 - torre norte - 21º andar
+FINANC - GASTOS FINANCEIROS
+ANALISTA DE PLANEJAMENTO FINANCEIRO PL
+- Formação em Engenharia - Conhecimento em Excel avançado - Inglês fluente - Conhecimento em programação é diferencial (VBA e SQL)
+
+
+
+Código ............. 1866
+Indicar
+SEDE - Avenida Tamboré, 267 21 andar - Torre Norte
+ADMKERNEL - ADMKERNEL
+Especialista Técnico
+UX Design
+
+
+
+Código ............. 1844
+Indicar
+Não informado - Thera, Canopus ou Clientes
+ADMCERTTECNICA - CUSTOS NB CERTIFICACAO TECNICA
+DEVELOPMENT PERFORMANCE ENGINEER
+Conhecimento na área de testes automatizados e performance com as ferramentas JMeter, HP Load Runner ou outros; Desenvolvimento JAVA (Desktop e Web) com as frameworks de mercado (Hibernate, Mentawai, Struts, JSF, JSP, Servlets, jUnity, ...); Conhecimento de metodologias ágeis (SCRUM); Conhecimento de Bancos de Dados Oracle e MS SQL;
+
+
+
+Código ............. 1812
+Indicar
+SEDE - Av. Tamboré, 267
+ADMCERTTECNICA - CUSTOS NB CERTIFICACAO TECNICA
+DEVELOPMENT PERFORMANCE ENGINEER
+Containers Weblogic, Websphere, Tomcat e outros Desejável: Certificação em Weblogic ou Websphere Jmeter, LoadRunner ou NeoLoad Linguagem Python e Java Ferramentas de monitoramento: Zabbix, Nagios e outras Ferramentas de APM: Dynatrace, App Dynamics e outras.
+
+
+
+Código ............. 1739
+Indicar
