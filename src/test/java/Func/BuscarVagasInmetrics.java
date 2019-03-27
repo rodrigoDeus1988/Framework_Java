@@ -31,15 +31,15 @@ public class BuscarVagasInmetrics {
 	public void buscaVagas() {
 
 		// Login Portal Inmetrics
-		new GeralPage(navegador).loginInmetrics("rodrigo.deus");
+		new GeralPage(navegador).loginInmetrics("XXXX");
 
 		// Senha Portal Inmetrics
-		new GeralPage(navegador).senhaInmetrics("Ne6@rd2430");
+		new GeralPage(navegador).senhaInmetrics("XXXX");
 
-		// Bot„o Portao Inmetrics
+		// Bot√£o Portao Inmetrics
 		new GeralPage(navegador).clickBotaoInmetrics();
 
-		// Bot„o Portao Inmetrics
+		// Bot√£o Portao Inmetrics
 		new GeralPage(navegador).LinkPanielColaborador();
 
 		// Combo Perfil
